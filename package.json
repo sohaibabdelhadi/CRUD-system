@@ -1,0 +1,14 @@
+{
+  "name": "CRUD-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sohaibabdelhadi/CRUD-system.git",
+  "author": "Tahar <taharbelhouchat@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  }
+}
