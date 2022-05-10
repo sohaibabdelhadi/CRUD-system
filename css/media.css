@@ -1,0 +1,19 @@
+@media(max-width:900px){
+  
+    .container{
+        width: 80% !important;
+        
+    }
+    .add-course{
+            width: 100% !important;
+
+    }
+    .error{
+        width: 95% !important;
+    }
+
+    .floating-table{
+        overflow-x: auto ;
+    }
+
+}
